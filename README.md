@@ -1,6 +1,6 @@
 # Browser Buddy
 ## Inspiration
-We’ve all been there — reading documentation, tutorials, or articles online and realizing we’ve just reread the same paragraph three times without actually absorbing it. As a team of developers and students constantly juggling new frameworks and APIs, we wanted a tool that could help us retain and understand information more efficiently. That’s how Browser Buddy was born — an AI-powered copilot for your web browsing and learning sessions.
+We’ve all been there reading documentation, tutorials, or articles online and realizing we’ve just reread the same paragraph three times without actually absorbing it. As a team of developers and students constantly juggling new frameworks and APIs, we wanted a tool that could help us retain and understand information more efficiently. That’s how Browser Buddy was born an AI-powered copilot for your web browsing and learning sessions.
 ## What it does
 Browser Buddy transforms the way you read online.
 
